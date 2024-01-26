@@ -30,8 +30,6 @@
 
 body{
     font-family:VodafoneRegular,Helvetica Neue,Helvetica !important;
-    padding-top: 0px !important;
-    padding: 0 0 0 0 !important;
 }
 
 /*Code to make most part of the Form Right To Left*/
@@ -472,6 +470,7 @@ span#leftEdge,span#rightEdge{
 }
 #liveForm .kpl_builder {
     width: 100% !important;
+   max-width: fit-content;
 }
 #liveForm .kpl_builder .modal-live-form {
     height: calc(100% - 150px) !important;
