@@ -470,7 +470,7 @@ span#leftEdge,span#rightEdge{
 }
 #liveForm .kpl_builder {
     width: 100% !important;
-    max-width: 450px;
+    max-width: 1000px;
 }
 #liveForm .kpl_builder .modal-live-form {
     height: calc(100% - 150px) !important;
