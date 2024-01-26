@@ -251,7 +251,7 @@ span#leftEdge,span#rightEdge{
 /*Setting Vodafone Logo*/
 #liveForm div div div .pageRepeater div[class*="ng-pristine"]:first-child{
     padding-top: 80px;
-    background-image: url('https://global.cdn.survey.medallia.com/8e7fd39f61a3f69568150c595e08b26e5800af30);
+    background-image: url('https://global.cdn.survey.medallia.com/8e7fd39f61a3f69568150c595e08b26e5800af30');
     background-repeat: no-repeat;
     background-size: 200px;
     background-position-y: 15px;
