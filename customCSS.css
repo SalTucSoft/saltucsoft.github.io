@@ -473,7 +473,7 @@ span#leftEdge,span#rightEdge{
    max-width: fit-content;
 }
 #liveForm .kpl_builder .modal-live-form {
-    height: calc(100% - 150px) !important;
+    height: calc(100%) !important;
 }
 ::-webkit-scrollbar {
     -webkit-appearance: none;
