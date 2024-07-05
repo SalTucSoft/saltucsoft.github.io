@@ -210,6 +210,9 @@ body {
  top: -1.45rem;
  left: -1.45rem;
 }
+.vf-thumbs .neb-content md-radio-group div.radio:first-child md-radio-button ._md-on::selection {
+ background: transparent!important;
+}
 .vf-thumbs .neb-content md-radio-group div.radio:first-child md-radio-button ._md-label {
  color:transparent!important;
 }
@@ -230,6 +233,9 @@ body {
  height: 5rem;
  top: -1.55rem;
  left: -1.55rem;
+}
+.vf-thumbs .neb-content md-radio-group div.radio:nth-child(2) md-radio-button ._md-on::selection {
+ background: transparent!important;
 }
 .vf-thumbs .neb-content md-radio-group div.radio:nth-child(2) md-radio-button ._md-label {
  color:transparent!important;
