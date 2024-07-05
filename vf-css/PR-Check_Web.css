@@ -204,6 +204,11 @@ body {
  background: url("https://saltucsoft.github.io/vf-icons/dislike-red.svg")!important;
  border:none!important;
  border-radius:0%!important;
+ background-size: cover !important;
+ width: 5rem;
+ height: 5rem;
+ top: -1.45rem;
+ left: -1.45rem;
 }
 .vf-thumbs .neb-content md-radio-group div.radio:first-child md-radio-button ._md-label {
  color:transparent!important;
@@ -220,6 +225,11 @@ body {
  background: url("https://saltucsoft.github.io/vf-icons/like-red.svg")!important;
  border:none!important;
  border-radius:0%!important;
+ background-size: cover !important;
+ width: 5rem;
+ height: 5rem;
+ top: -1.45rem;
+ left: -1.45rem;
 }
 .vf-thumbs .neb-content md-radio-group div.radio:nth-child(2) md-radio-button ._md-label {
  color:transparent!important;
