@@ -181,6 +181,10 @@ body {
   }
 }
 
-.vf-thumbs .neb-content md-radio-group div.radio md-radio-button ._md-off:first-of-type {
+.vf-thumbs .neb-content md-radio-group div.radio md-radio-button:first-child ._md-off {
  background: url("https://saltucsoft.github.io/vf-icons/dislike.svg")!important;
+}
+
+.vf-thumbs .neb-content md-radio-group div.radio md-radio-button:second-child ._md-off {
+ background: url("https://saltucsoft.github.io/vf-icons/like.svg")!important;
 }
