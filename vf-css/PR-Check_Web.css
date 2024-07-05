@@ -183,18 +183,26 @@ body {
 
 .vf-thumbs .neb-content md-radio-group div.radio:first-child md-radio-button ._md-off {
  background: url("https://saltucsoft.github.io/vf-icons/dislike.svg")!important;
+ border:none!important;
+ border-radius:0%!important;
 }
 .vf-thumbs .neb-content md-radio-group div.radio:first-child md-radio-button ._md-on {
  background: url("https://saltucsoft.github.io/vf-icons/dislike-red.svg")!important;
+ border:none!important;
+ border-radius:0%!important;
 }
 .vf-thumbs .neb-content md-radio-group div.radio:first-child md-radio-button ._md-label {
  color:transparent!important;
 }
 .vf-thumbs .neb-content md-radio-group div.radio:nth-child(2) md-radio-button ._md-off {
  background: url("https://saltucsoft.github.io/vf-icons/like.svg")!important;
+ border:none!important;
+ border-radius:0%!important;
 }
 .vf-thumbs .neb-content md-radio-group div.radio:nth-child(2) md-radio-button ._md-on {
  background: url("https://saltucsoft.github.io/vf-icons/like-red.svg")!important;
+ border:none!important;
+ border-radius:0%!important;
 }
 .vf-thumbs .neb-content md-radio-group div.radio:nth-child(2) md-radio-button ._md-label {
  color:transparent!important;
