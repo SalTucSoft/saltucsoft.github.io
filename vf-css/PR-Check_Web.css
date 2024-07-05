@@ -180,12 +180,14 @@ body {
     overflow: hidden;
   }
 }
-
+ /* vf-thumbs */
+.vf-thumbs {
+ text-align:center!important
+}
 .vf-thumbs .neb-content md-radio-group {
  display: flex!important;
  justify-content: center!important;
 }
-
 .vf-thumbs .neb-content md-radio-group div.radio:first-child md-radio-button ._md-off {
  background: url("https://saltucsoft.github.io/vf-icons/dislike.svg")!important;
  border:none!important;
