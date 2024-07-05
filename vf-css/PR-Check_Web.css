@@ -182,7 +182,7 @@ body {
 }
  /* vf-thumbs */
 .vf-thumbs {
- text-align:center!important
+ text-align:center!important;
 }
 .vf-thumbs .neb-content md-radio-group {
  display: flex!important;
