@@ -116,6 +116,7 @@ button {
   flex-direction: column-reverse !important;
 }
 #liveForm .kpl_builder .pageRepeater label, #liveForm .kpl_builder .kpl-thankYouHolder label {
+ 
   text-align: left !important;
  /*modifica color label lascia commento*/
   color: #0D0D0D !important;
@@ -183,6 +184,9 @@ body {
  /* vf-thumbs */
 .vf-thumbs {
  text-align:center!important;
+}
+.vf-thumbs label{
+ font-weight:bold!important;
 }
 .vf-thumbs .neb-content md-radio-group {
  display: flex!important;
