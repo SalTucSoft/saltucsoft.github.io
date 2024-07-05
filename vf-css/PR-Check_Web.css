@@ -181,6 +181,6 @@ body {
   }
 }
 
-.neb-content md-radio-group div.radio md-radio-button ._md-off {
+.vf-thumbs .neb-content md-radio-group div.radio md-radio-button ._md-off:first-child {
  background: url("https://saltucsoft.github.io/vf-icons/dislike.svg")!important;
 }
