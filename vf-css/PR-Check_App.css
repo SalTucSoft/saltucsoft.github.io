@@ -200,18 +200,18 @@ body {
  border:none!important;
  border-radius:0%!important;
  background-size: cover !important;
- width: 40px;
- height: 40px;
+ width: 30px;
+ height: 30px;
 }
 .vf-thumbs .neb-content md-radio-group div.radio:first-child md-radio-button ._md-on {
  background: url("https://saltucsoft.github.io/vf-icons/dislike-red.svg")!important;
  border:none!important;
  border-radius:0%!important;
  background-size: cover !important;
- width: 88px;
- height: 88px;
- top: -24px;
- left: -24px;
+ width: 69px;
+ height: 69px;
+ top: -20px;
+ left: -20px;
 }
 .vf-thumbs .neb-content md-radio-group div.radio:first-child md-radio-button ._md-on::selection {
  background: transparent!important;
@@ -224,18 +224,18 @@ body {
  border:none!important;
  border-radius:0%!important;
  background-size: cover !important;
- width: 40px;
- height: 40px;
+ width: 30px;
+ height: 30px;
 }
 .vf-thumbs .neb-content md-radio-group div.radio:nth-child(2) md-radio-button ._md-on {
  background: url("https://saltucsoft.github.io/vf-icons/like-red.svg")!important;
  border:none!important;
  border-radius:0%!important;
  background-size: cover !important;
- width: 88px;
- height: 88px;
- top: -24px;
- left: -24px;
+ width: 69px;
+ height: 69px;
+ top: -20px;
+ left: -20px;
 }
 .vf-thumbs .neb-content md-radio-group div.radio:nth-child(2) md-radio-button ._md-on::selection {
  background: transparent!important;
