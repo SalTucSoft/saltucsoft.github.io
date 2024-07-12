@@ -182,6 +182,11 @@ body {
     overflow: hidden;
   }
 }
+#liveForm .kpl_builder .modal-live-form .pageRepeater .control-label.error, #liveForm .kpl_builder .modal-live-form .kpl-thankYouHolder .control-label.error {
+    position: absolute!important;
+    left: 0px!important;
+    color: red !important;
+}
  /* vf-thumbs */
 .vf-thumbs {
  text-align:center!important;
