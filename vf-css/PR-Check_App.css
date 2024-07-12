@@ -184,6 +184,9 @@ body {
  /* vf-thumbs */
 .vf-thumbs {
  text-align:center!important;
+ display: flex;
+ flex-direction: row;
+ align-items: flex-end;
 }
 .vf-thumbs label{
  font-weight:bold!important;
