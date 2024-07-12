@@ -120,7 +120,7 @@ button {
   text-align: left !important;
  /*modifica color label lascia commento*/
   color: #0D0D0D !important;
- margin-left: 20px!important;
+ margin-right: 20px!important;
 }
 #liveForm .kpl_builder .panel-footer .btn.cancel-btn {
  /*modifica bottone btn chiudi*/
