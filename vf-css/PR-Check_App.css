@@ -120,6 +120,7 @@ button {
   text-align: left !important;
  /*modifica color label lascia commento*/
   color: #0D0D0D !important;
+ margin-left: 20px!important;
 }
 #liveForm .kpl_builder .panel-footer .btn.cancel-btn {
  /*modifica bottone btn chiudi*/
@@ -218,6 +219,7 @@ body {
 }
 .vf-thumbs .neb-content md-radio-group div.radio:first-child md-radio-button ._md-label {
  color:transparent!important;
+ width: 10px!important;
 }
 .vf-thumbs .neb-content md-radio-group div.radio:nth-child(2) md-radio-button ._md-off {
  background: url("https://saltucsoft.github.io/vf-icons/like.svg")!important;
