@@ -169,6 +169,9 @@ body {
 .col-sm-12.neb-form-footer-buttons {
   margin-left: 2.5rem !important;
 }
+.panel-footer-web {
+    margin-top: 10px !important;
+ }
 /*modifica x mobile*/
 @media only screen and (max-width: 600px) {
   .panel-footer-web {
@@ -180,7 +183,7 @@ body {
 }
 #liveForm .kpl_builder .modal-live-form .pageRepeater .control-label.error, #liveForm .kpl_builder .modal-live-form .kpl-thankYouHolder .control-label.error {
     position: absolute!important;
-    left: 0px!important;
+    left: 80px!important;
     color: red !important;
 }
  /* vf-thumbs */
