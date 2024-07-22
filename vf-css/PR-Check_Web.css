@@ -70,13 +70,10 @@ textarea {
   display: flex !important;
   width: 176px;
   height: 30px;
-  flex-direction: row-reverse !important;
+  /*flex-direction: row-reverse !important;
   gap: 16px;
   margin-left: 7rem !important;
- /*margin-right: -22px !important;
- */
- /* gap: 16px;
-  */
+ /margin-right: -22px !important;*/
 }
 /*modifica btn chiudi*/
 button.btn.cancel-btn.form-close-btn.ng-binding.ng-scope {
