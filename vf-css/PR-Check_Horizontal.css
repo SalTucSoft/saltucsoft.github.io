@@ -34,6 +34,11 @@
   font-style:normal;
 }
 */
+.live-form-content {
+    padding: 5px;
+    border-radius: 16px;
+    background-color: #f2f2f2;
+}
 textarea {
  /*style ext*/
   resize: none;
