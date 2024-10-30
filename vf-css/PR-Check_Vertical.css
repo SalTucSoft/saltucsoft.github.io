@@ -187,6 +187,12 @@ body {
   .live-form-content.neb-mobile-web {
     overflow: hidden;
   }
+ .live-form-content {
+    display: flex;
+    /* overflow: hidden; */
+    flex-direction: column;
+    align-items: stretch;
+ }
 }
 #liveForm .kpl_builder .modal-live-form .pageRepeater .control-label.error, #liveForm .kpl_builder .modal-live-form .kpl-thankYouHolder .control-label.error {
     position: absolute!important;
