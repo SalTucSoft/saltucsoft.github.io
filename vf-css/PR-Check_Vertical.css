@@ -13,7 +13,7 @@
   font-weight:400;
   font-style:normal 
 }
-@font-face{
+@font-face{ 
   font-family:VodafoneRgBold;
   src:url(//assets.vodafone.co.uk/cs/groups/public/documents/fonts/vodafonergbd_eot.eot);
   src:url(//assets.vodafone.co.uk/cs/groups/public/documents/fonts/vodafonergbd_eot.eot?#iefix) format('embedded-opentype'), url(//assets.vodafone.co.uk/cs/groups/public/documents/fonts/vodafonergbd_ttf.ttf)format('truetype'), url(//assets.vodafone.co.uk/cs/groups/public/documents/fonts/vodafonergbd_svg.svg) format('svg');
