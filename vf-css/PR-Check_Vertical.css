@@ -65,6 +65,10 @@ textarea {
   gap: 16px;
   border-radius: 6px !important;
 }
+/*allinea elementi survey*/
+.live-form-content {
+    align-items: center;
+}
 /*modifica gruppo cta invia chiudi*/
 .footer-right-buttons.pull-right {
   display: flex !important;
