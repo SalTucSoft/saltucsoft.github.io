@@ -67,7 +67,11 @@ textarea {
 }
 /*allinea elementi survey*/
 .live-form-content {
+    display: flex;
+    flex-direction: column;
     align-items: center;
+    align-content: space-between;
+    justify-content: space-between;
 }
 /*modifica gruppo cta invia chiudi*/
 .footer-right-buttons.pull-right {
